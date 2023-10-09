@@ -16,7 +16,7 @@
     flex-direction: column;
 }
 
-#stepbrother{
+#stepid{
     border-left: 2px solid #000;
     border-right: 2px solid #000;
 }
@@ -220,23 +220,7 @@ input{
     color: rgb(95, 95, 95);
 }
 
-/* #blank{
-    height:50px;
-    width: 120px;
-    border-radius: 15px;
-    border: 2px solid rgb(20,20,90);
-    background-color: rgba(0,0,0,0);
-    color: rgb(20,20,90);
-} */
 
-/* #blank-work{
-    height:50px;
-    width: 140px;
-    border-radius: 15px;
-    border: 2px solid rgb(20,20,90);
-    background-color: rgba(0,0,0,0);
-    color: rgb(20,20,90);
-} */
 
 button{
     height:8.02vh;
@@ -263,9 +247,7 @@ button{
     #heading{
         font-size:3vh;
     }
-    button{
-         /* padding:4vh 4vh; */
-    }
+    
     .main{
         height: 100%;
         width: 100%;
@@ -485,24 +467,7 @@ button{
         color: rgb(95, 95, 95);
     }
     
-    /* #blank{
-        height:;
-        width: 120px;
-        border-radius: 15px;
-        border: 2px solid rgb(20,20,90);
-        background-color: rgba(0,0,0,0);
-        color: rgb(20,20,90);   
-    }
-
-    #blank-work{
-        height:50px;
-        width: 140px;
-        border-radius: 15px;
-        border: 2px solid rgb(20,20,90);
-        background-color: rgba(0,0,0,0);
-        color: rgb(20,20,90);  
-        padding:1vw; 
-    } */
+    
     
     button{
         height:6vh;
@@ -538,56 +503,4 @@ button{
 }
 
 
-/* @media (max-width:600px) {
-
-    .main{
-        height: 230vw;
-        width: 100%;
-        background-color: rgb(137, 225, 65);
-        padding: 0vw 0vw;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .card{
-        height: 100%;
-        width: 100%; 
-        border-radius: 0px;
-        background-color: crimson;
-        padding: 4vw 6vw;
-        display: flex;
-        flex-direction: column;
-        gap: 2vh;
-     }
-     
-     .card div{
-         background-color: royalblue;
-         border: 2px solid;
-     }
-     
-     .signup{
-         height: 80px;
-         width: 100%;
-     }
-     
-     .search{
-         height: 24vh;
-     }
-     
-     .works{
-         height: 40vh;
-     }
-     
-     .info{
-         height: 22vh;
-     }
-     
-     .download{
-         height:22vh;
-     }
-     
-     .interlinks{
-         height:12vh;
-     } 
-} */
 
